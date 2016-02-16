@@ -1,0 +1,16 @@
+/**************
+	*			QUICK ALERT CSS
+ * Center something in middle screen 
+ */
+.centered {
+  position: fixed; /* or absolute */
+  top: 30px;
+  left: 50%;
+  width: 500px;
+  margin-left: -250px;
+  z-index: 3333;
+}
+#quick-alert{
+	z-index: 3333;
+	opacity: 0.83;
+}
